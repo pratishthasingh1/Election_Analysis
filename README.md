@@ -4,7 +4,6 @@ a. the total number of votes casted
 b. a complete list of candidates and the total amount and percentage of votes each received
 c. the winner of the election, the percentage they won and the amount of votes they won based on popularity
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 How many votes were cast in this congressional election? 369,711
 
@@ -26,6 +25,8 @@ Which candidate won the election, what was their vote count, and what was their 
 Diana DeGette
 272,892
 73.8%
+
+
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This script can be used to determine the winner of each county and to see which county is most active in terms of vote turnout. Knowing this can help campaigns to determine which counties can be visited to increase turnout/gain voter confidence. 
