@@ -26,7 +26,7 @@ Diana DeGette
 272,892
 73.8%
 
-<img> https://github.com/pratishthasingh1/Election_Analysis/blob/master/Screen%20Shot%202020-08-16%20at%208.46.58%20PM.png?raw=true </img>
+![Results](https://github.com/pratishthasingh1/Election_Analysis/blob/master/Screen%20Shot%202020-08-16%20at%208.46.58%20PM.png?raw=true)
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This script can be used to determine the winner of each county and to see which county is most active in terms of vote turnout. Knowing this can help campaigns to determine which counties can be visited to increase turnout/gain voter confidence. 
