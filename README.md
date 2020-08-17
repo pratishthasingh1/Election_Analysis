@@ -8,25 +8,19 @@ c. the winner of the election, the percentage they won and the amount of votes t
 How many votes were cast in this congressional election? 369,711
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-County Votes: 
-Jefferson: 10.5%,(38855)
-Denver: 82.8%,(306055)
-Arapahoe: 6.7%,(24801)
+![County Votes Data](https://github.com/pratishthasingh1/Election_Analysis/blob/master/County_Votes.png?raw=true)
 
 Which county had the largest number of votes?
 Denver
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette
 272,892
 73.8%
 
-![Results](https://github.com/pratishthasingh1/Election_Analysis/blob/master/Screen%20Shot%202020-08-16%20at%208.46.58%20PM.png?raw=true)
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This script can be used to determine the winner of each county and to see which county is most active in terms of vote turnout. Knowing this can help campaigns to determine which counties can be visited to increase turnout/gain voter confidence. 
